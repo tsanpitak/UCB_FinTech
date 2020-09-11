@@ -7,3 +7,6 @@ The problem:
 
 Tech
 * Robo-Advising - app-based advice is much more receptive than phone advising
+
+Goal
+* Help people create a positive habit of saving and investing.

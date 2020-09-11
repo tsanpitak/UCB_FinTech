@@ -13,7 +13,7 @@ Tech
 Goal
 * Help people create a positive habit of saving and investing.
 * Change perception that you have to be rich to invest.
-* Starts with $5
+* Starts with $5 (reduce barrier to entry)
 
 Customers
 * The 80% of america that's not very financial-savvy

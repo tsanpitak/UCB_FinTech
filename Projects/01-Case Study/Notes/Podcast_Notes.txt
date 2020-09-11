@@ -9,6 +9,7 @@ The problem:
 
 Tech
 * Robo-Advising - app-based advice is much more receptive than phone advising
+* Payments/Remittance - Round up to save
 
 Goal
 * Help people create a positive habit of saving and investing.
@@ -32,3 +33,8 @@ Wharton FinTech Podcast - BRandon Krieg - Founder of Stash
 
 * Hyper Personalized platform
 * Provide Adivices, Guidance, Educations, and Simplicity
+Next Step:
+* Banking
+* Customers are paying too much for Banking Fees - Overdraft/ATMs/etc.
+  * Will also help customers understand how they're spending money.
+  * Partner with Greendot

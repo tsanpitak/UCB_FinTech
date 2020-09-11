@@ -1,3 +1,9 @@
 Send orders to multiple vendors to get you the best price/Hide trading intention.
 
 There're a lot of people taking care of big investors, so who're taking care of the little investors? So, they quit and starts Stash.
+The problem: 
+* Most people don't understand investing, savings, and have very little financial education. Many asks "What should I do with my investment". 
+* How do you solve the pain of customers? (Allow people to save and invest)
+
+Tech
+* Robo-Advising - app-based advice is much more receptive than phone advising

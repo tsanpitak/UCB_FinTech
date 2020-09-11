@@ -16,6 +16,7 @@ Goal
 * Starts with $5
 
 Customers
+* The 80% of america that's not very financial-savvy
 * Retail small investors.
 * Long-term investors (5/10/20 years)
 * Provide education along the way.

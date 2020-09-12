@@ -1,21 +1,24 @@
 # Stash
-![][image/Stash-Logo.svg]
+![Stash_Logo](./image/Stash-Logo.svg) < .element height="50%" width="50%">
 ## Overview and Origin
 
 ### Name
 * Stash
 
 ### Founded
-* Date
+* February 19, 2015
 
 ### Founders
-* 
+* Brandon Krieg
+* Ed Robinson
 
-* How did the idea for the company (or project) come about?
+### Founding Ideas
+Stash was found to help the average Americans save and invest better. Brandon and Ed were working for a Wall Street startup when one of their colleages asked "What should I do with my money?". They realized that if a wall-street professional is asking this question, what about the rest of the people, the little guys? They went out in front of their office and start asking questions to the passerby. Do you invest?; Would you like to invest?; What's holding you back? The common answers were "No, I don't invest, but I would like to" and "I don't know how and I don't have enough money". 
 
+Brandon and Ed saw this as a big painful problems, so they resigned from their Wall Street jobs and found a pain pill - Stash.
 
 ### Funding
-* Funded through Venture Capital Firms and Debt. Total $48M
+* Funded through Venture Capital. Total $191M+
 
 ---
 ## Business Activities:

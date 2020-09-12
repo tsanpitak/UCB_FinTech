@@ -1,5 +1,5 @@
 # Stash
-![Stash_Logo](./image/Stash-Logo.svg)
+![Stash_Logo](./Image/Stash-Logo.svg)
 ## Overview and Origin
 
 ### Name
@@ -9,7 +9,7 @@
 * February 19, 2015
 
 ### Founders
-![Co-Founders|,20%](./image/BrandonEdPhoto.jpg)
+![Co-Founders|,20%](./Image/BrandonEdPhoto.jpg)
 * Brandon Krieg (Left)
 * Ed Robinson (Right)
 

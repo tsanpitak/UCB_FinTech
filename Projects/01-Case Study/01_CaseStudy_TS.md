@@ -9,7 +9,7 @@
 * February 19, 2015
 
 ### Founders
-![Co-Founders](./image/BrandonEdPhoto.jpg)
+![Co-Founders|,20%](./image/BrandonEdPhoto.jpg)
 * Brandon Krieg (Left)
 * Ed Robinson (Right)
 
@@ -22,6 +22,7 @@ Brandon and Ed saw this as a big painful problems, so they resigned from their W
 * Funded through Venture Capital. Total $191M+
 
 ---
+
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
@@ -40,7 +41,9 @@ The Stash platform is very similar to other micro-investing platforms. Stash sta
 Stash doesn't throw the whole investment book at its customers in classes. The education is deliver in small timely pieces. Stash will first create a personalize stock selection based on customers values to help relate customer to stocks on a personal level. As the customer start looking at stocks and buying stocks, the platform would start introducing various "ideas" such as portfolio diversification, long-term vs. short-term stocks, risk-tolerance, etc. Moreover, the platform would help introduce good investment habits with videogame-like point system - give points for performing good investment habits. These habits will hopefully led the customer to a more wealthy future.
 
 Stash technology - Engineering?
+
 ---
+
 ## Landscape:
 
 * What domain of the financial industry is the company in?
@@ -56,6 +59,7 @@ Stash technology - Engineering?
 * WealthFront, Traditional Banks and Brokerage Firms
 
 ---
+
 ## Results
 
 * What has been the business impact of this company so far?
@@ -82,6 +86,8 @@ Stash technology - Engineering?
 
 * Why are these technologies appropriate for your solution?
 * Can be build on top of current technology
+
+---
 
 ## Addendum
 

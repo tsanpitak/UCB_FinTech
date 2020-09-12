@@ -9,7 +9,7 @@
 * February 19, 2015
 
 ### Founders
-![Co-Founders|,20%](./Image/BrandonEdPhoto.jpg)
+![Co-Founders](./Image/BrandonEdPhoto.jpg)
 * Brandon Krieg (Left)
 * Ed Robinson (Right)
 
@@ -101,8 +101,4 @@ Stash technology - Engineering?
 ### Podcasts 
 * Stash - Teach Me How To Money - Why I started Stash with Brandon Krieg
 * Wharton FinTech Podcast - BRandon Krieg - Founder of Stash
-<<<<<<< HEAD
 * Chain of Wealth - Brandon Krieg on Micro Investing, The Stock Market and more!
-=======
-* Chain of Wealth - Brandon Krieg on Micro Investing, The Stock Market and more!
->>>>>>> 0df8224fa387e6d72be034df92d0467fa11ce1b2

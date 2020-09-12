@@ -9,7 +9,7 @@
 * February 19, 2015
 
 ### Founders
-![Co-Founders|,20%](./image/BrandonEdPhoto.jpg)
+![Co-Founders|20%](./image/BrandonEdPhoto.jpg)
 * Brandon Krieg (Left)
 * Ed Robinson (Right)
 

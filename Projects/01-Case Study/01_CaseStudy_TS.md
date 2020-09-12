@@ -69,6 +69,10 @@ What solution does this company offer that their competitors do not or cannot of
 ## Sources
 ### Websites
 * https://stash.com
+* https://www.businessinsider.com/stash-brandon-krieg-interview-investing-stock-market-2017-7
+* https://www.cnbc.com/2016/10/21/wall-street-vets-left-6-figure-jobs-to-launch-an-app-that-makes-investing-easy.html
+* https://www.businessinsider.com/personal-finance/stash-invest-review
+* 
 ### Podcasts 
 * Stash - Teach Me How To Money - Why I started Stash with Brandon Krieg
 * Wharton FinTech Podcast - BRandon Krieg - Founder of Stash

@@ -1,5 +1,5 @@
 # Stash
-![Stash_Logo](./image/Stash-Logo.svg) < .element height="50%" width="50%">
+![Stash_Logo](./image/Stash-Logo.svg)
 ## Overview and Origin
 
 ### Name
@@ -25,12 +25,11 @@ Brandon and Ed saw this as a big painful problems, so they resigned from their W
 
 * What specific financial problem is the company or project trying to solve?
 
-
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-* 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
 
 
 ---
@@ -42,8 +41,8 @@ What solution does this company offer that their competitors do not or cannot of
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
 * What are the other major companies in this domain?
-* Robinhood
-* Others
+* Robinhood, Acorns, Webull
+* WealthFront, Traditional Banks and Brokerage Firms
 
 ---
 ## Results
@@ -67,6 +66,10 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Addendum
 
-### Sources
+## Sources
+### Websites
 * https://stash.com
-*
+### Podcasts 
+* Stash - Teach Me How To Money - Why I started Stash with Brandon Krieg
+* Wharton FinTech Podcast - BRandon Krieg - Founder of Stash
+* Chain of Wealth - Brandon Krieg on Micro Investing, The Stock Market and more!

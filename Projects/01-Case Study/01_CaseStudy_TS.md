@@ -1,5 +1,5 @@
 # Stash
-![][image\Stash-Logo.svg]
+![][image/Stash-Logo.svg]
 ## Overview and Origin
 
 ### Name

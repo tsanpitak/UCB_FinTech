@@ -100,5 +100,5 @@ Stash technology - Engineering?
 * 
 ### Podcasts 
 * Stash - Teach Me How To Money - Why I started Stash with Brandon Krieg
-* Wharton FinTech Podcast - BRandon Krieg - Founder of Stash
+* Wharton FinTech Podcast - Brandon Krieg - Founder of Stash
 * Chain of Wealth - Brandon Krieg on Micro Investing, The Stock Market and more!

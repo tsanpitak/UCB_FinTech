@@ -1,5 +1,5 @@
 # Stash
-![][image/Stash-Logo.svg]
+![Stash_Logo](./image/Stash-Logo.svg){height="50%" width="50%"}
 ## Overview and Origin
 
 ### Name

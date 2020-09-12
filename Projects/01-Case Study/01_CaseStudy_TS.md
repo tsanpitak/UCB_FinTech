@@ -30,7 +30,11 @@ What solution does this company offer that their competitors do not or cannot of
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
+Stash was founded to bring investing to the average Americans. Brandon Krieg and Ed Robinson determined that for them to make investing more accessible they would need to remove as many barriers to investment as possible. They decided to create a platform that would provides financial education, advices, guidance and simplicity to consumers with $5 account minimum. Hence, Stash was born.
 
+Stash is aim directly to the average Americans, with little to no savings, little understanding of the financial market, but want to start saving and investing. Stash would provides simplify introduction to investing, and stock selection to educate its customer and help ease the customer to be more comfortable with investing. As such, Stash is hope to help customers build good saving and investing habits for their own future.
+
+The Stash platform is very similar to other micro-investing platforms. The most unique point of Stash is its education and advising services. 
 
 ---
 ## Landscape:
@@ -43,6 +47,8 @@ What solution does this company offer that their competitors do not or cannot of
 * What are the other major companies in this domain?
 * Robinhood, Acorns, Webull
 * WealthFront, Traditional Banks and Brokerage Firms
+
+
 
 ---
 ## Results

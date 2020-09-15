@@ -43,11 +43,11 @@ Stash technology uses Big Data, Machine Learning and Deep Learning to learn abou
 
 ## Landscape:
 
-Stash is one of many companies in Micro-Investing space. However, it's more than just Micro-Investing. It also includes Robo-Advisor service by provideing stock recommedations. Moreover, Stash also includes Online Banking in their service offerings. 
+Stash is one of many companies in Micro-Investing space. However, it's more than just Micro-Investing. It also includes Robo-Advisor service by providing stock recommendations. Moreover, Stash also includes Online Banking in their service offerings. 
 
-In recent years, many big traditional brokers and banks start to lower their comission and minimum account requirments to lure in small investors to their services. Moreover, many brokerage houses and banks start to increase their offering to be both investment broker and bankings. Everyone starts using BigData and Robo-Advising in their service offerings. Some also starts to sell Robo-Trading as well. 
+In recent years, many big traditional brokers and banks start to lower their commission and minimum account requirement to lure in small investors to their services. Moreover, many brokerage houses and banks start to increase their offering to be both investment broker and bank. Everyone starts using Big Data and Robo-Advising in their service offerings. Some also starts to sell Robo-Trading as well. 
 
-As every firms start to offers the same services, Stash still stands out with their focus on building customers' habits. Stash uses their education and game-like recommedation to encourage weekly savings into their investment account. Stash's banking service offer "stock-back", which is the debit card reward program that offer fractional shares of companies when the card is used to purchase that company's product.
+As every firms start to offers the same services, Stash still stands out with their focus on building customers' habits. Stash uses their education and game-like recommendation to encourage weekly savings into their investment account. Stash's banking service offer "stock-back", which is the debit card reward program that offer fractional shares of companies when the card is used to purchase that company's product.
 
 Stash's competitors include Robinhood, Acorns, Webull, WealthFront, and the traditional banks and brokerage firms.
 

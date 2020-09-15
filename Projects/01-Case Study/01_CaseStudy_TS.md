@@ -64,6 +64,7 @@ Stash's competitors include Robinhood, Acorns, Webull, WealthFront, and the trad
 
 * How is your company performing relative to competitors in the same domain?
 
+---
 
 ## Recommendations
 
@@ -93,6 +94,6 @@ Stash's competitors include Robinhood, Acorns, Webull, WealthFront, and the trad
 * https://github.com/StashInvest/machine-learning-presentations/blob/master/README.md
 
 ### Podcasts 
-* Stash - Teach Me How To Money - Why I started Stash with Brandon Krieg
+* StashInvest - Teach Me How To Money - Why I started Stash with Brandon Krieg
 * Wharton FinTech Podcast - Brandon Krieg - Founder of Stash
 * Chain of Wealth - Brandon Krieg on Micro Investing, The Stock Market and more!

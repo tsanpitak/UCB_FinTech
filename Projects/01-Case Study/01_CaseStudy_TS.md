@@ -49,20 +49,27 @@ In recent years, many big traditional brokers and banks start to lower their com
 
 As every firms start to offers the same services, Stash still stands out with their focus on building customers' habits. Stash uses their education and game-like recommendation to encourage weekly savings into their investment account. Stash's banking service offer "stock-back", which is the debit card reward program that offer fractional shares of companies when the card is used to purchase that company's product.
 
-Stash's competitors include Robinhood, Acorns, Webull, WealthFront, and the traditional banks and brokerage firms.
+Stash's competitors include Robinhood, Acorns, Betterment, and the traditional banks and brokerage firms.
 
 ---
 
 ## Results
 
-* What has been the business impact of this company so far?
-* More people start investing, increase competition on investment
-* Big traditional firms starts offering 0 comissions and automatic/schedule savings with automatic investings
-
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 * Mostly # of accounts and $$$ under management
 
 * How is your company performing relative to competitors in the same domain?
+
+Micro-Investing applications made investing more easily accessible to people who have never thought that investing was possible for them. The micro-investing companies usually require very low account minimum, some allows 0 minimum, and free trading commission as well. Moreover, all of these also has very low management or monthly fees. As these applications become more popular, the traditional brokerages start to lower their account requirements, monthly fees, and comissions as well. 
+
+|App|Users|Asset under Management|
+|---|---|---|
+|Stash|4.5 Million|$1.4 Billion|
+|Robinhood|4.5 Million|$1.3 Billion|
+|Acorns|10 Million|$20 Billion|
+|Betterment|500,000|$22 Billion|
+
+Stash is not the best performing in this space. However, it is a niche product that targets average Americans without much financial knowledge and new investors. Its target users would not be bringing large amount of investment to Stash, hence, the low AUM is understandable.
 
 ---
 
@@ -92,6 +99,11 @@ Stash's competitors include Robinhood, Acorns, Webull, WealthFront, and the trad
 * https://www.businessinsider.com/personal-finance/stash-invest-review
 * https://venturefizz.com/stories/nyc/inside-engineering-stash
 * https://github.com/StashInvest/machine-learning-presentations/blob/master/README.md
+* https://www.brokerage-review.com/investing-firm/assets-under-management/acorns-aum.aspx
+* https://tearsheet.co/new-banks/stash-opens-the-metrics-kimono-regarding-growth-during-the-pandemic/
+* https://www.brokerage-review.com/investing-firm/assets-under-management/robinhood-aum.aspx
+* https://www.nerdwallet.com/reviews/investing/advisors/sofi-automated-investing
+* https://www.investmentnews.com/betterment-grows-500k-accounts-189575
 
 ### Podcasts 
 * StashInvest - Teach Me How To Money - Why I started Stash with Brandon Krieg

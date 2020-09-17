@@ -55,21 +55,24 @@ Stash's competitors include Robinhood, Acorns, Betterment, and the traditional b
 
 ## Results
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-* Mostly # of accounts and $$$ under management
+Stash and Micro-Investing applications made investing more easily accessible to people who have never thought that investing was possible for them. The micro-investing companies usually require very low account minimum, some allows 0 minimum, and free trading commission as well. 
 
-* How is your company performing relative to competitors in the same domain?
+Moreover, Stash and many applications also offers Robo-Advisors as part of its basic offering to all customers. By making Robo-Advisors easily accessible to consumers, the micro-investors now have the tools which can help them manage risks and search for investment opportunities, given them services previously thought to be for larger investors only.
 
-Micro-Investing applications made investing more easily accessible to people who have never thought that investing was possible for them. The micro-investing companies usually require very low account minimum, some allows 0 minimum, and free trading commission as well. Moreover, all of these also has very low management or monthly fees. As these applications become more popular, the traditional brokerages start to lower their account requirements, monthly fees, and comissions as well. 
+Additionally, all of these also has very low management or monthly fees. As these applications become more popular, the traditional brokerages start to lower their account requirements, monthly fees, and comissions as well. 
 
-|App|Users|Asset under Management|
+This focus from bigger firms provides micro-investors with services previously avaiable to larger investors, allowing them the same opportunities that as the larger investors.
+
+Growth for these Micro-Investing applications are the same as any subscription-based business which is number of users. However, as investment firms Asset Under Management (AUM) is also an indication of how the firms perform and retain their customers. Stash and some of its competitors have its metrics below:
+
+|App|Users|AUM|
 |---|---|---|
 |Stash|4.5 Million|$1.4 Billion|
 |Robinhood|4.5 Million|$1.3 Billion|
 |Acorns|10 Million|$20 Billion|
 |Betterment|500,000|$22 Billion|
 
-Stash is not the best performing in this space. However, it is a niche product that targets average Americans without much financial knowledge and new investors. Its target users would not be bringing large amount of investment to Stash, hence, the low AUM is understandable.
+Stash is not the best performing in this space. However, it is a niche product that targets average Americans without much financial knowledge and new investors. Its target users would not be bringing large amount of investment to Stash, hence, the low AUM is understandable. Since each customer of Stash bring less asset to invest, Stash's AUM will be lower than applications that offer more comprehensive services than Stash. 
 
 ---
 

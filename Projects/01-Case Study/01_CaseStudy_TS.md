@@ -100,6 +100,7 @@ By offer these products and services, Stash could grow into a comprehensive inve
 * https://www.brokerage-review.com/investing-firm/assets-under-management/robinhood-aum.aspx
 * https://www.nerdwallet.com/reviews/investing/advisors/sofi-automated-investing
 * https://www.investmentnews.com/betterment-grows-500k-accounts-189575
+* https://www.daveramsey.com/blog/micro-investing
 
 ### Podcasts 
 * StashInvest - Teach Me How to Money - Why I started Stash with Brandon Krieg

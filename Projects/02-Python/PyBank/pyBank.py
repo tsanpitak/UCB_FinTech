@@ -1,39 +1,44 @@
-import pandas as pd
+from pathlib import Path
+import csv
 
+# Init variables
+prev_month = 0
 total_months = 0
 net_pl = 0
 delta = 0
 sum_of_deltas = 0
-average_delta = 0
+average_delta = 0.0
 max_profits_delta = ["",0]
 max_losses_delta = ["",0]
-last_month_pl = 0
 
-# Read CSV file into DataFrame
-pl_data = pd.read_csv(r"Resources/budget_data.csv")
+# Path to File
+file_path = Path(r"./Resources/budget_data.csv")
 
-# # of months = # of rows
-total_months = len(pl_data)
-net_pl = sum(pl_data[r"Profit/Losses"])
-
-#initialize first month as basis to calculate delta
-last_month_pl = pl_data.loc[0,r"Profit/Losses"]
-
-for i in range(1,total_months):
-    # Calculate delta
-    delta = pl_data.loc[i,r"Profit/Losses"] - last_month_pl
-    # Keep track of total delta
-    sum_of_deltas += delta 
-    # Is this max profit?
-    if delta >= max_profits_delta[1]:
-        max_profits_delta = [pl_data.loc[i,r"Date"], delta]
-    # Is this max loss?
-    if delta <= max_losses_delta[1]:
-        max_losses_delta = [pl_data.loc[i,r"Date"], delta]
-    # Prep for next month
-    last_month_pl = pl_data.loc[i,r"Profit/Losses"]
+with open(file_path, 'r') as source:
+    # Read file
+    csv_reader = csv.reader(source, delimiter=",")
+    # Iterate past header
+    # 0: Month
+    # 1: Profit/Losses
+    csv_header = next(csv_reader)
+    # Loop through the rest of the file to find max profit/losses deta
+    for month in csv_reader:
+        curr_month = int(month[1])
+        net_pl += curr_month
         
-average_delta = round(sum_of_deltas / (total_months -1),2)
+        #Skip for 1st month
+        if total_months != 0:
+            delta = curr_month - prev_month
+            sum_of_deltas += delta
+            if delta >= max_profits_delta[1]:
+                max_profits_delta = [month[0], delta]
+            if delta <= max_losses_delta[1]:
+                max_losses_delta = [month[0], delta]
+        
+        prev_month = curr_month
+        total_months += 1
+
+average_delta = round(sum_of_deltas / (total_months-1),2)
 
 output = open(r"pybank_output.txt", "w")
 
@@ -47,7 +52,7 @@ output.write(f"Greatest Decrease in Profits: {max_losses_delta[0]} (${max_losses
 
 output.close()
 
-print("\nFinancial Analysis")
+print("Financial Analysis")
 print("----------------------------")
 print(f"Total Months: {total_months:,}")
 print(f"Total: ${net_pl:,}")

@@ -23,7 +23,7 @@ for i in range(1,total_months):
     # Calculate delta
     delta = pl_data.loc[i,r"Profit/Losses"] - last_month_pl
     # Keep track of total delta
-    sum_of_deltas += delta
+    sum_of_deltas += delta 
     # Is this max profit?
     if delta >= max_profits_delta[1]:
         max_profits_delta = [pl_data.loc[i,r"Date"], delta]
@@ -34,11 +34,23 @@ for i in range(1,total_months):
     last_month_pl = pl_data.loc[i,r"Profit/Losses"]
         
 average_delta = round(sum_of_deltas / (total_months -1),2)
-        
+
+output = open(r"pybank_output.txt", "w")
+
+output.write("Financial Analysis\n")
+output.write("----------------------------\n")
+output.write(f"Total Months: {total_months:,}\n")
+output.write(f"Total: ${net_pl:,}\n")
+output.write(f"Average  Change: ${average_delta:,}\n")
+output.write(f"Greatest Increase in Profits: {max_profits_delta[0]} (${max_profits_delta[1]:,})\n")
+output.write(f"Greatest Decrease in Profits: {max_losses_delta[0]} (${max_losses_delta[1]:,})\n")
+
+output.close()
+
 print("\nFinancial Analysis")
 print("----------------------------")
-print("Total Months: ", total_months)
-print("Total: $", net_pl)
-print("Average  Change: $", average_delta)
-print(f"Greatest Increase in Profits: {max_profits_delta[0]} (${max_profits_delta[1]})")
-print(f"Greatest Decrease in Profits: {max_losses_delta[0]} (${max_losses_delta[1]})")
+print(f"Total Months: {total_months:,}")
+print(f"Total: ${net_pl:,}")
+print(f"Average  Change: ${average_delta:,}")
+print(f"Greatest Increase in Profits: {max_profits_delta[0]} (${max_profits_delta[1]:,})")
+print(f"Greatest Decrease in Profits: {max_losses_delta[0]} (${max_losses_delta[1]:,})")

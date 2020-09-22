@@ -7,6 +7,13 @@ from pathlib import Path
 
 #Function to read a CSV file to list of lists
 def read_csv_to_list (file_path):
+    """read_csv_to_list
+    -------------------
+    Parameter:
+    file_path - Path object containing path to a CSV file
+    -------------------
+    Return content of the CSV file without its header
+    """
     csv_list = []
     with open(file_path, 'r') as file:
         file_reader = csv.reader(file, delimiter=",")

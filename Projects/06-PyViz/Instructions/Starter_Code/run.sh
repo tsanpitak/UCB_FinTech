@@ -1,1 +1,1 @@
-panel serve dashboard TS.ipynb
+panel serve "dashboard TS.ipynb"

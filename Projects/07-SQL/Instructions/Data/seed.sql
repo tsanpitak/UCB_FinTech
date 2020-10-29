@@ -239,7 +239,7 @@ INSERT INTO merchant VALUES
     (149, 'Clark and Sons', 5),
     (150, 'Johnson and Sons', 2);
 
-INSERT INTO transaction VALUES
+INSERT INTO transactions VALUES
     (222, '2018-01-01 21:35:10', 6.22, 3561954487988605, 69),
     (2045, '2018-01-01 21:43:12', 3.83, 5135837688671496, 85),
     (395, '2018-01-01 22:41:21', 9.61, 213193946980303, 82),

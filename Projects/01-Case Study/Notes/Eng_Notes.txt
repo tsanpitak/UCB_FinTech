@@ -1,3 +1,0 @@
-Ruby, Scala, react Javascript
-Decentrialized processing/modularize
-Bigdata, big data architecture
